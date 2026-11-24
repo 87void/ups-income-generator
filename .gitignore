@@ -1,0 +1,6 @@
+.env
+.venv/
+.venv_old/
+schwab_tokens.json
+__pycache__/
+*.pyc
