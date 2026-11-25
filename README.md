@@ -6,6 +6,9 @@ The application retrieves UPS quotes and listed call-option data, screens contra
 
 > **Important:** This project is an analytical tool. It does not access brokerage positions, account balances, or order-entry endpoints, and it cannot place trades.
 
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/a5579e96-6fd4-45e0-9f89-35e22b1aaa5e" />
+
+
 ## Features
 
 - **Schwab market data:** Retrieve the UPS underlying quote and options chain.
